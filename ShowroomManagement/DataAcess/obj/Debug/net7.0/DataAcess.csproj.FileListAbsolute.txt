@@ -1,0 +1,11 @@
+D:\ShowRoomManagement\ShowroomManagement\DataAcess\bin\Debug\net7.0\DataAcess.deps.json
+D:\ShowRoomManagement\ShowroomManagement\DataAcess\bin\Debug\net7.0\DataAcess.dll
+D:\ShowRoomManagement\ShowroomManagement\DataAcess\bin\Debug\net7.0\DataAcess.pdb
+D:\ShowRoomManagement\ShowroomManagement\DataAcess\obj\Debug\net7.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShowRoomManagement\ShowroomManagement\DataAcess\obj\Debug\net7.0\DataAcess.AssemblyInfoInputs.cache
+D:\ShowRoomManagement\ShowroomManagement\DataAcess\obj\Debug\net7.0\DataAcess.AssemblyInfo.cs
+D:\ShowRoomManagement\ShowroomManagement\DataAcess\obj\Debug\net7.0\DataAcess.csproj.CoreCompileInputs.cache
+D:\ShowRoomManagement\ShowroomManagement\DataAcess\obj\Debug\net7.0\DataAcess.dll
+D:\ShowRoomManagement\ShowroomManagement\DataAcess\obj\Debug\net7.0\refint\DataAcess.dll
+D:\ShowRoomManagement\ShowroomManagement\DataAcess\obj\Debug\net7.0\DataAcess.pdb
+D:\ShowRoomManagement\ShowroomManagement\DataAcess\obj\Debug\net7.0\ref\DataAcess.dll

@@ -1,0 +1,11 @@
+D:\ShowRoomManagement\ShowroomManagement\BusinessLogics\bin\Debug\net7.0\BusinessLogics.deps.json
+D:\ShowRoomManagement\ShowroomManagement\BusinessLogics\bin\Debug\net7.0\BusinessLogics.dll
+D:\ShowRoomManagement\ShowroomManagement\BusinessLogics\bin\Debug\net7.0\BusinessLogics.pdb
+D:\ShowRoomManagement\ShowroomManagement\BusinessLogics\obj\Debug\net7.0\BusinessLogics.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShowRoomManagement\ShowroomManagement\BusinessLogics\obj\Debug\net7.0\BusinessLogics.AssemblyInfoInputs.cache
+D:\ShowRoomManagement\ShowroomManagement\BusinessLogics\obj\Debug\net7.0\BusinessLogics.AssemblyInfo.cs
+D:\ShowRoomManagement\ShowroomManagement\BusinessLogics\obj\Debug\net7.0\BusinessLogics.csproj.CoreCompileInputs.cache
+D:\ShowRoomManagement\ShowroomManagement\BusinessLogics\obj\Debug\net7.0\BusinessLogics.dll
+D:\ShowRoomManagement\ShowroomManagement\BusinessLogics\obj\Debug\net7.0\refint\BusinessLogics.dll
+D:\ShowRoomManagement\ShowroomManagement\BusinessLogics\obj\Debug\net7.0\BusinessLogics.pdb
+D:\ShowRoomManagement\ShowroomManagement\BusinessLogics\obj\Debug\net7.0\ref\BusinessLogics.dll

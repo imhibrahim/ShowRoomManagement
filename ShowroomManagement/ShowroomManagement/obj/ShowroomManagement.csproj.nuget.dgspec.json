@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ShowroomManagement\\ShowroomManagement\\ShowroomManagement.csproj": {}
+    "D:\\ShowRoomManagement\\ShowroomManagement\\ShowroomManagement\\ShowroomManagement.csproj": {}
   },
   "projects": {
-    "E:\\ShowroomManagement\\ShowroomManagement\\ShowroomManagement.csproj": {
+    "D:\\ShowRoomManagement\\ShowroomManagement\\ShowroomManagement\\ShowroomManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ShowroomManagement\\ShowroomManagement\\ShowroomManagement.csproj",
+        "projectUniqueName": "D:\\ShowRoomManagement\\ShowroomManagement\\ShowroomManagement\\ShowroomManagement.csproj",
         "projectName": "ShowroomManagement",
-        "projectPath": "E:\\ShowroomManagement\\ShowroomManagement\\ShowroomManagement.csproj",
+        "projectPath": "D:\\ShowRoomManagement\\ShowroomManagement\\ShowroomManagement\\ShowroomManagement.csproj",
         "packagesPath": "C:\\Users\\imh77\\.nuget\\packages\\",
-        "outputPath": "E:\\ShowroomManagement\\ShowroomManagement\\obj\\",
+        "outputPath": "D:\\ShowRoomManagement\\ShowroomManagement\\ShowroomManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\imh77\\AppData\\Roaming\\NuGet\\NuGet.Config",

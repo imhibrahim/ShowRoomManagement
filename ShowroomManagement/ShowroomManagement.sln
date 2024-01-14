@@ -3,13 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowroomManagement", "ShowroomManagement\ShowroomManagement.csproj", "{CD5F14DA-696C-4722-9EDA-0B23856BD5BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShowroomManagement", "ShowroomManagement\ShowroomManagement.csproj", "{CD5F14DA-696C-4722-9EDA-0B23856BD5BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowroomManagementAPI", "ShowroomManagementAPI\ShowroomManagementAPI.csproj", "{8BE972E5-1FC6-4B79-B79B-9323F674DADD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogics", "BusinessLogics\BusinessLogics.csproj", "{877D21A8-CECB-4571-8013-A53AB812B5C2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcess", "DataAcess\DataAcess.csproj", "{CDA7F98D-B753-41F4-8D42-0F5863545E2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShowroomManagementAPI", "ShowroomManagementAPI\ShowroomManagementAPI.csproj", "{8BE972E5-1FC6-4B79-B79B-9323F674DADD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,14 +21,6 @@ Global
 		{8BE972E5-1FC6-4B79-B79B-9323F674DADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BE972E5-1FC6-4B79-B79B-9323F674DADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BE972E5-1FC6-4B79-B79B-9323F674DADD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{877D21A8-CECB-4571-8013-A53AB812B5C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{877D21A8-CECB-4571-8013-A53AB812B5C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{877D21A8-CECB-4571-8013-A53AB812B5C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{877D21A8-CECB-4571-8013-A53AB812B5C2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CDA7F98D-B753-41F4-8D42-0F5863545E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CDA7F98D-B753-41F4-8D42-0F5863545E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CDA7F98D-B753-41F4-8D42-0F5863545E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CDA7F98D-B753-41F4-8D42-0F5863545E2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

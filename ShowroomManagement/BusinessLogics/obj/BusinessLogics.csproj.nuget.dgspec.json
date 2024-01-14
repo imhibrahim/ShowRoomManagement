@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ShowroomManagement\\BusinessLogics\\BusinessLogics.csproj": {}
+    "D:\\ShowRoomManagement\\ShowroomManagement\\BusinessLogics\\BusinessLogics.csproj": {}
   },
   "projects": {
-    "E:\\ShowroomManagement\\BusinessLogics\\BusinessLogics.csproj": {
+    "D:\\ShowRoomManagement\\ShowroomManagement\\BusinessLogics\\BusinessLogics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ShowroomManagement\\BusinessLogics\\BusinessLogics.csproj",
+        "projectUniqueName": "D:\\ShowRoomManagement\\ShowroomManagement\\BusinessLogics\\BusinessLogics.csproj",
         "projectName": "BusinessLogics",
-        "projectPath": "E:\\ShowroomManagement\\BusinessLogics\\BusinessLogics.csproj",
+        "projectPath": "D:\\ShowRoomManagement\\ShowroomManagement\\BusinessLogics\\BusinessLogics.csproj",
         "packagesPath": "C:\\Users\\imh77\\.nuget\\packages\\",
-        "outputPath": "E:\\ShowroomManagement\\BusinessLogics\\obj\\",
+        "outputPath": "D:\\ShowRoomManagement\\ShowroomManagement\\BusinessLogics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\imh77\\AppData\\Roaming\\NuGet\\NuGet.Config",

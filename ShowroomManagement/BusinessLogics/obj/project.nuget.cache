@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0apen9xhJoddvFY63qMFxCQJDp+X0GedIfRqPk81ns3FjEm6SbEl986HPmF7/KQSNVjI2TY4wBYzCqqrVMboEw==",
+  "dgSpecHash": "wnwvolo0+kmjgcO8bCFm26vrYRcHGfNnW0nOzlkr5uLkZUMRRDHbvRYuGOjjSudnDK5A4yleR3UCO44fCKcXww==",
   "success": true,
-  "projectFilePath": "E:\\ShowroomManagement\\BusinessLogics\\BusinessLogics.csproj",
+  "projectFilePath": "D:\\ShowRoomManagement\\ShowroomManagement\\BusinessLogics\\BusinessLogics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

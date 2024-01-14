@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ShowroomManagement\\ShowroomManagementAPI\\ShowroomManagementAPI.csproj": {}
+    "D:\\ShowRoomManagement\\ShowroomManagement\\ShowroomManagementAPI\\ShowroomManagementAPI.csproj": {}
   },
   "projects": {
-    "E:\\ShowroomManagement\\ShowroomManagementAPI\\ShowroomManagementAPI.csproj": {
+    "D:\\ShowRoomManagement\\ShowroomManagement\\ShowroomManagementAPI\\ShowroomManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ShowroomManagement\\ShowroomManagementAPI\\ShowroomManagementAPI.csproj",
+        "projectUniqueName": "D:\\ShowRoomManagement\\ShowroomManagement\\ShowroomManagementAPI\\ShowroomManagementAPI.csproj",
         "projectName": "ShowroomManagementAPI",
-        "projectPath": "E:\\ShowroomManagement\\ShowroomManagementAPI\\ShowroomManagementAPI.csproj",
+        "projectPath": "D:\\ShowRoomManagement\\ShowroomManagement\\ShowroomManagementAPI\\ShowroomManagementAPI.csproj",
         "packagesPath": "C:\\Users\\imh77\\.nuget\\packages\\",
-        "outputPath": "E:\\ShowroomManagement\\ShowroomManagementAPI\\obj\\",
+        "outputPath": "D:\\ShowRoomManagement\\ShowroomManagement\\ShowroomManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\imh77\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,24 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

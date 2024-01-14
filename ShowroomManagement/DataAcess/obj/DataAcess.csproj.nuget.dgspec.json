@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ShowroomManagement\\DataAcess\\DataAcess.csproj": {}
+    "D:\\ShowRoomManagement\\ShowroomManagement\\DataAcess\\DataAcess.csproj": {}
   },
   "projects": {
-    "E:\\ShowroomManagement\\DataAcess\\DataAcess.csproj": {
+    "D:\\ShowRoomManagement\\ShowroomManagement\\DataAcess\\DataAcess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ShowroomManagement\\DataAcess\\DataAcess.csproj",
+        "projectUniqueName": "D:\\ShowRoomManagement\\ShowroomManagement\\DataAcess\\DataAcess.csproj",
         "projectName": "DataAcess",
-        "projectPath": "E:\\ShowroomManagement\\DataAcess\\DataAcess.csproj",
+        "projectPath": "D:\\ShowRoomManagement\\ShowroomManagement\\DataAcess\\DataAcess.csproj",
         "packagesPath": "C:\\Users\\imh77\\.nuget\\packages\\",
-        "outputPath": "E:\\ShowroomManagement\\DataAcess\\obj\\",
+        "outputPath": "D:\\ShowRoomManagement\\ShowroomManagement\\DataAcess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\imh77\\AppData\\Roaming\\NuGet\\NuGet.Config",
