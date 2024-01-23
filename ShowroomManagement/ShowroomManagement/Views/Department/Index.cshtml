@@ -98,6 +98,7 @@
                     <table id="example1" class="table table-bordered table-striped">
                         <thead>
                             <tr>
+                                
                                 <th>Department Name</th>
                                 <th>Department Description</th>
                             </tr>
@@ -112,34 +113,37 @@
                 </div>
                 <!-- /.card-body -->
             </div>
-            @section scriptsection {
-         <script src="~/ProjectFiles/Department/index.js"></script>
-                <script>
-                    $("#example1").DataTable({
-                        "responsive": true, "lengthChange": false, "autoWidth": false,
-                        "buttons":
-                            ["copy",
-                                "csv",
-                                "excel",
-                                "pdf",
-                                "print",
-                                "colvis"]
-                    }).buttons().container().appendTo('#example1_wrapper .col-md-6:eq(0)');
-                    $('#example2').DataTable({
-                        "paging": true,
-                        "lengthChange": false,
-                        "searching": false,
-                        "ordering": true,
-                        "info": true,
-                        "autoWidth": false,
-                        "responsive": true,
-                    });
-                </script>
-            
-            }
             <!-- /.row (main row) -->
         </div>
         <!-- /.container-fluid -->
     </section>
     <!-- /.content -->
 </div>
+
+
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Add New Department</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+               <partial name="Create"/>
+            
+        </div>
+    </div>
+</div>
+  
+            @section ScriptSection {
+                
+         <script src="~/ProjectFiles/Department/index.js"></script>
+                <script src="~/ProjectFiles/Department/Create.js"></script>
+                
+            }

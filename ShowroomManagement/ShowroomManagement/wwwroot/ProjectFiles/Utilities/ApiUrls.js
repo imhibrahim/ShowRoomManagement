@@ -3,5 +3,6 @@
 let APIURLS = {
 
     //---------Department--------------x    
-    department_DetDepartments: main_api +'/Department/GetDepartments'
+    department_GetDepartments: main_api + '/Department/GetDepartments',
+    department_AddDepartments: main_api + '/Department/AddDepartment',
 } 

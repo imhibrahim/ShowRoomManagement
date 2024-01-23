@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using ShowroomManagementAPI.DTOs;
 using ShowroomManagementAPI.Repositories;
 
 namespace ShowroomManagementAPI.Controllers
@@ -28,6 +29,16 @@ namespace ShowroomManagementAPI.Controllers
 
         }
 
+        [HttpPost("AddDepartment")]
+        public async Task<string> AddDepartment(DepartmentDTO departmentDTO)
+        {
+            return JsonConvert.SerializeObject(await service.AddDepartment(departmentDTO));
+
+        }
+
+
+
     }
 }
  
+

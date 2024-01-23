@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ul5lkrdtcCP9Pymviw20JCNvxKWkQVBnwekRWVpBZJI=",
+  "Hash": "UdvzG2HvuE5orftnqsC1nBJW4d6NVbRcd/5tXJjKwbc=",
   "Source": "ShowroomManagement",
   "BasePath": "_content/ShowroomManagement",
   "Mode": "Default",
@@ -41750,6 +41750,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ProjectFiles\\Brand\\Index.js"
+    },
+    {
+      "Identity": "D:\\ShowRoomManagement\\ShowroomManagement\\ShowroomManagement\\wwwroot\\ProjectFiles\\Department\\Create.js",
+      "SourceId": "ShowroomManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ShowRoomManagement\\ShowroomManagement\\ShowroomManagement\\wwwroot\\",
+      "BasePath": "_content/ShowroomManagement",
+      "RelativePath": "ProjectFiles/Department/Create.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProjectFiles\\Department\\Create.js"
     },
     {
       "Identity": "D:\\ShowRoomManagement\\ShowroomManagement\\ShowroomManagement\\wwwroot\\ProjectFiles\\Department\\index.js",
