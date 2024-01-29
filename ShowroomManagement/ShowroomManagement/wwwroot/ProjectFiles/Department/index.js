@@ -1,9 +1,11 @@
 ﻿$(document).ready(function () {
     loadData()
+    alert()
 });
 //----------Load Data Fromn API------------------
 
 function loadData() {
+        alert(),
     $.ajax({
         url: APIURLS.department_GetDepartments,
         type: 'GET',
@@ -11,6 +13,7 @@ function loadData() {
 
         success: function (resp) {
             var data = JSON.parse(resp)
+            alert();
             console.log(data.Response);
             for (let item of data.Response) {
                 $('#example1 tbody').append(`
@@ -22,9 +25,11 @@ function loadData() {
 
 
             }
+        }
 
+        })
 
-        });
+        }
 
 
 
